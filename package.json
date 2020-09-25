@@ -18,7 +18,7 @@
         "url": "https://github.com/DylanVann/react-native-fast-image.git"
     },
     "license": "(MIT AND Apache-2.0)",
-    "author": "Dylan Vann <dylan@dylanvann.com> (https://dylanvann.com)",
+    "author": "Khoa <dylan@dylanvann.com> (https://dylanvann.com)",
     "files": [
         "android",
         "!android/build",

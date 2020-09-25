@@ -385,13 +385,13 @@ Fix the bug of `cacheOnly` behavior
 -   Default `resizeMode` on Android. https://github.com/DylanVann/react-native-fast-image/commit/d4210c0ed03d7e0c49389f6abbb3c713e68e5142
 -   Preloading on android. https://github.com/DylanVann/react-native-fast-image/commit/de4f40a3a30a95fb8cdab714735501650e335dd9
 
-## [2.0.1] (2017-11-30)
+## [2.0.1] (2020-11-30)
 
 ### Removed
 
 -   Locking of node version with `engines`.
 
-## [2.0.0] (2017-11-30)
+## [2.0.0] (2020-11-30)
 
 ### Changed
 
@@ -407,7 +407,7 @@ Fix the bug of `cacheOnly` behavior
 
 -   Removing backwards compatible `View.propTypes`.
 
-## [1.0.0] (2017-08-08)
+## [1.0.0] (2020-08-08)
 
 ### Added
 
@@ -417,57 +417,57 @@ Fix the bug of `cacheOnly` behavior
 
 -   Support for `react-native < 0.47.0` because of a change to how native modules work.
 
-## [0.0.11] (2017-06-20)
+## [0.0.11] (2020-06-20)
 
 ### Added
 
 -   Add support for preloading. ( 4e69ddd09908139feda66b283713d2b0efa04522 ) - @fjcaetano
 -   Improve docs formatting.
 
-## [0.0.10] (2017-05-04)
+## [0.0.10] (2020-05-04)
 
 ### Added
 
 -   Add gif support to iOS. 🎞
 
-## [0.0.9] (2017-05-03)
+## [0.0.9] (2020-05-03)
 
 ### Fixed
 
 -   Re-release of previous version.
 
-## [0.0.8] (2017-05-03)
+## [0.0.8] (2020-05-03)
 
 ### Fixed
 
 -   Fixed submodule installation.
 -   This issue also caused the last version released to be packaged incorrectly (did not include SDWebImage).
 
-## [0.0.7] (2017-04-28)
+## [0.0.7] (2020-04-28)
 
 ### Fixed
 
 -   Fix library header search paths. These being set incorrectly was causing archiving to fail.
 
-## [0.0.6] (2017-04-20)
+## [0.0.6] (2020-04-20)
 
 ### Fixed
 
 -   Fix setNativeProps for plain Image component (no source).
 
-## [0.0.5] (2017-04-19)
+## [0.0.5] (2020-04-19)
 
 ### Fixed
 
 -   Forward `setNativeProps`. Makes this component work with `TouchableOpacity`.
 
-## [0.0.4] (2017-04-18)
+## [0.0.4] (2020-04-18)
 
 ### Fixed
 
 -   Fix `onLoad` and `onError` props on iOS.
 
-## [0.0.3] (2017-04-18)
+## [0.0.3] (2020-04-18)
 
 ### Changed
 
@@ -475,13 +475,13 @@ Fix the bug of `cacheOnly` behavior
 -   Improve example.
 -   Improve code formatting.
 
-## [0.0.2] (2017-04-17)
+## [0.0.2] (2020-04-17)
 
 ### Added
 
 -   Initial release (for real).
 
-## 0.0.1 (2017-04-17)
+## 0.0.1 (2020-04-17)
 
 ### Added
 
